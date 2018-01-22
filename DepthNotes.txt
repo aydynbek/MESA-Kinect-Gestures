@@ -1,0 +1,17 @@
+﻿-- Object Detection:
+	look at the surroundings to see where a pile of trash is located
+	approach the pile
+	scan the pile
+	if objects of interest exist, mark their location in 3d space
+
+
+Color different groups of objects different colors
+	-- call this whole procedure every half a second
+
+
+Graph data unit: Original pixel coordinates
+				 Maximum of 2 edges
+				 Orientation of the edges (like the chain code)
+For every pixel we create a 3x3 matrix, with the center representing the pixel
+How do we estimate slope?
+				-- Use the original pixel coordinates

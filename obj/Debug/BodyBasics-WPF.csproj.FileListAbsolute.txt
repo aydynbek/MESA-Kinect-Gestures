@@ -1,0 +1,46 @@
+C:\Users\Aydynbek\Desktop\Kinect Project\XBOX ONE\BodyBasics-WPF\bin\AnyCPU\Debug\BodyBasics-WPF.exe.config
+C:\Users\Aydynbek\Desktop\Solar Project\XBOX ONE\BodyBasics-WPF\bin\AnyCPU\Debug\BodyBasics-WPF.exe.config
+C:\Users\Aydynbek\Desktop\Solar Project\XBOX ONE\BodyBasics-WPF\bin\AnyCPU\Debug\BodyBasics-WPF.exe
+C:\Users\Aydynbek\Desktop\Solar Project\XBOX ONE\BodyBasics-WPF\bin\AnyCPU\Debug\BodyBasics-WPF.pdb
+C:\Users\Aydynbek\Desktop\Solar Project\XBOX ONE\BodyBasics-WPF\bin\AnyCPU\Debug\Microsoft.Kinect.dll
+C:\Users\Aydynbek\Desktop\Solar Project\XBOX ONE\BodyBasics-WPF\bin\AnyCPU\Debug\Microsoft.Kinect.xml
+C:\Users\Aydynbek\Desktop\Solar Project\XBOX ONE\BodyBasics-WPF\obj\Debug\BodyBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\Aydynbek\Desktop\Solar Project\XBOX ONE\BodyBasics-WPF\obj\Debug\MainWindow.baml
+C:\Users\Aydynbek\Desktop\Solar Project\XBOX ONE\BodyBasics-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Aydynbek\Desktop\Solar Project\XBOX ONE\BodyBasics-WPF\obj\Debug\App.g.cs
+C:\Users\Aydynbek\Desktop\Solar Project\XBOX ONE\BodyBasics-WPF\obj\Debug\BodyBasics-WPF_MarkupCompile.cache
+C:\Users\Aydynbek\Desktop\Solar Project\XBOX ONE\BodyBasics-WPF\obj\Debug\BodyBasics-WPF.g.resources
+C:\Users\Aydynbek\Desktop\Solar Project\XBOX ONE\BodyBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.BodyBasics.Properties.Resources.resources
+C:\Users\Aydynbek\Desktop\Solar Project\XBOX ONE\BodyBasics-WPF\obj\Debug\BodyBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\Aydynbek\Desktop\Solar Project\XBOX ONE\BodyBasics-WPF\obj\Debug\BodyBasics-WPF.exe
+C:\Users\Aydynbek\Desktop\Solar Project\XBOX ONE\BodyBasics-WPF\obj\Debug\BodyBasics-WPF.pdb
+C:\Users\Aydynbek\Desktop\Solar Project\XBOX ONE\BodyBasics-WPF - Gestures\bin\AnyCPU\Debug\BodyBasics-WPF.exe.config
+C:\Users\Aydynbek\Desktop\Solar Project\XBOX ONE\BodyBasics-WPF - Gestures\bin\AnyCPU\Debug\BodyBasics-WPF.exe
+C:\Users\Aydynbek\Desktop\Solar Project\XBOX ONE\BodyBasics-WPF - Gestures\bin\AnyCPU\Debug\BodyBasics-WPF.pdb
+C:\Users\Aydynbek\Desktop\Solar Project\XBOX ONE\BodyBasics-WPF - Gestures\bin\AnyCPU\Debug\Microsoft.Kinect.dll
+C:\Users\Aydynbek\Desktop\Solar Project\XBOX ONE\BodyBasics-WPF - Gestures\bin\AnyCPU\Debug\Microsoft.Kinect.xml
+C:\Users\Aydynbek\Desktop\Solar Project\XBOX ONE\BodyBasics-WPF - Gestures\obj\Debug\BodyBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\Aydynbek\Desktop\Solar Project\XBOX ONE\BodyBasics-WPF - Gestures\obj\Debug\MainWindow.baml
+C:\Users\Aydynbek\Desktop\Solar Project\XBOX ONE\BodyBasics-WPF - Gestures\obj\Debug\MainWindow.g.cs
+C:\Users\Aydynbek\Desktop\Solar Project\XBOX ONE\BodyBasics-WPF - Gestures\obj\Debug\App.g.cs
+C:\Users\Aydynbek\Desktop\Solar Project\XBOX ONE\BodyBasics-WPF - Gestures\obj\Debug\BodyBasics-WPF_MarkupCompile.cache
+C:\Users\Aydynbek\Desktop\Solar Project\XBOX ONE\BodyBasics-WPF - Gestures\obj\Debug\BodyBasics-WPF.g.resources
+C:\Users\Aydynbek\Desktop\Solar Project\XBOX ONE\BodyBasics-WPF - Gestures\obj\Debug\Microsoft.Samples.Kinect.BodyBasics.Properties.Resources.resources
+C:\Users\Aydynbek\Desktop\Solar Project\XBOX ONE\BodyBasics-WPF - Gestures\obj\Debug\BodyBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\Aydynbek\Desktop\Solar Project\XBOX ONE\BodyBasics-WPF - Gestures\obj\Debug\BodyBasics-WPF.exe
+C:\Users\Aydynbek\Desktop\Solar Project\XBOX ONE\BodyBasics-WPF - Gestures\obj\Debug\BodyBasics-WPF.pdb
+C:\Users\Atabeg\Desktop\Solar Project\XBOX ONE\BodyBasics-WPF - Gestures\bin\AnyCPU\Debug\BodyBasics-WPF.exe.config
+C:\Users\Atabeg\Desktop\Solar Project\XBOX ONE\BodyBasics-WPF - Gestures\bin\AnyCPU\Debug\BodyBasics-WPF.exe
+C:\Users\Atabeg\Desktop\Solar Project\XBOX ONE\BodyBasics-WPF - Gestures\bin\AnyCPU\Debug\BodyBasics-WPF.pdb
+C:\Users\Atabeg\Desktop\Solar Project\XBOX ONE\BodyBasics-WPF - Gestures\bin\AnyCPU\Debug\Microsoft.Kinect.dll
+C:\Users\Atabeg\Desktop\Solar Project\XBOX ONE\BodyBasics-WPF - Gestures\bin\AnyCPU\Debug\Microsoft.Kinect.xml
+C:\Users\Atabeg\Desktop\Solar Project\XBOX ONE\BodyBasics-WPF - Gestures\obj\Debug\BodyBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\Atabeg\Desktop\Solar Project\XBOX ONE\BodyBasics-WPF - Gestures\obj\Debug\MainWindow.baml
+C:\Users\Atabeg\Desktop\Solar Project\XBOX ONE\BodyBasics-WPF - Gestures\obj\Debug\MainWindow.g.cs
+C:\Users\Atabeg\Desktop\Solar Project\XBOX ONE\BodyBasics-WPF - Gestures\obj\Debug\App.g.cs
+C:\Users\Atabeg\Desktop\Solar Project\XBOX ONE\BodyBasics-WPF - Gestures\obj\Debug\BodyBasics-WPF_MarkupCompile.cache
+C:\Users\Atabeg\Desktop\Solar Project\XBOX ONE\BodyBasics-WPF - Gestures\obj\Debug\BodyBasics-WPF.g.resources
+C:\Users\Atabeg\Desktop\Solar Project\XBOX ONE\BodyBasics-WPF - Gestures\obj\Debug\Microsoft.Samples.Kinect.BodyBasics.Properties.Resources.resources
+C:\Users\Atabeg\Desktop\Solar Project\XBOX ONE\BodyBasics-WPF - Gestures\obj\Debug\BodyBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\Atabeg\Desktop\Solar Project\XBOX ONE\BodyBasics-WPF - Gestures\obj\Debug\BodyBasics-WPF.exe
+C:\Users\Atabeg\Desktop\Solar Project\XBOX ONE\BodyBasics-WPF - Gestures\obj\Debug\BodyBasics-WPF.pdb

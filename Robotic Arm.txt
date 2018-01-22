@@ -1,0 +1,20 @@
+1) read an initial rotation and send the rotation values to the motor 
+	computer
+2) wait for a signal from the motor to continue reading
+3) have the motor check the rotation value and do the rotation if it can 
+	be done
+4) send a signal back to C# indicating that a new rotation can be made
+
+Approximately 4 seconds to make a slow theta1 rotation of 90 degrees,
+so each frame reads .75 degrees. Lets make the maximum that can be read 
+at each frame 2 degrees (we would have to rotate fast for that).
+We say that a servo motor rotates at a speed of x degrees per second.
+Also, it takes y1 seconds to send a signal from C# to motor and y2 seconds
+to read that signal at motor end. It takes z1 seconds to send a signal from 
+motor to C# and z2 seconds to receive that signal. 
+
+Time total = 1/30 sec >> Kinect rotation calculation + y1 + y2 + x + z1 + z2
+
+Therefore, we have to pick an optimal number of frames to fit everything in.
+If the servo rotation speed is too slow, then we would need to slow down the
+speed of the arm rotation to keep everything in sync. 
